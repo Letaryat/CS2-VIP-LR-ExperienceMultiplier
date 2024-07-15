@@ -1,0 +1,15 @@
+C:\xampp\htdocs\CS2-VIP-LR-ExperienceMultiplier\source\bin\Debug\net8.0\[VIP] [LR] ExperienceMultiplier.deps.json
+C:\xampp\htdocs\CS2-VIP-LR-ExperienceMultiplier\source\bin\Debug\net8.0\[VIP] [LR] ExperienceMultiplier.dll
+C:\xampp\htdocs\CS2-VIP-LR-ExperienceMultiplier\source\bin\Debug\net8.0\[VIP] [LR] ExperienceMultiplier.pdb
+C:\xampp\htdocs\CS2-VIP-LR-ExperienceMultiplier\source\bin\Debug\net8.0\LevelsRanksApi.dll
+C:\xampp\htdocs\CS2-VIP-LR-ExperienceMultiplier\source\obj\Debug\net8.0\[VIP] [LR] ExperienceMultiplier.csproj.AssemblyReference.cache
+C:\xampp\htdocs\CS2-VIP-LR-ExperienceMultiplier\source\obj\Debug\net8.0\[VIP] [LR] ExperienceMultiplier.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\CS2-VIP-LR-ExperienceMultiplier\source\obj\Debug\net8.0\[VIP] [LR] ExperienceMultiplier.AssemblyInfoInputs.cache
+C:\xampp\htdocs\CS2-VIP-LR-ExperienceMultiplier\source\obj\Debug\net8.0\[VIP] [LR] ExperienceMultiplier.AssemblyInfo.cs
+C:\xampp\htdocs\CS2-VIP-LR-ExperienceMultiplier\source\obj\Debug\net8.0\[VIP] [LR] ExperienceMultiplier.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\CS2-VIP-LR-ExperienceMultiplier\source\obj\Debug\net8.0\[VIP] [LR] ExperienceMultiplier.sourcelink.json
+C:\xampp\htdocs\CS2-VIP-LR-ExperienceMultiplier\source\obj\Debug\net8.0\[VIP] [L.E0BF4CDE.Up2Date
+C:\xampp\htdocs\CS2-VIP-LR-ExperienceMultiplier\source\obj\Debug\net8.0\[VIP] [LR] ExperienceMultiplier.dll
+C:\xampp\htdocs\CS2-VIP-LR-ExperienceMultiplier\source\obj\Debug\net8.0\refint\[VIP] [LR] ExperienceMultiplier.dll
+C:\xampp\htdocs\CS2-VIP-LR-ExperienceMultiplier\source\obj\Debug\net8.0\[VIP] [LR] ExperienceMultiplier.pdb
+C:\xampp\htdocs\CS2-VIP-LR-ExperienceMultiplier\source\obj\Debug\net8.0\ref\[VIP] [LR] ExperienceMultiplier.dll
